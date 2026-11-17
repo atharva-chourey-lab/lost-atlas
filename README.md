@@ -1,0 +1,28 @@
+# Shrinkage-corrected histological compilation values average ~1.6× MRI-atlas values: an audit of a comparative neuroanatomy archive
+
+Neuroanatomy · 2026
+
+Author: Atharva Chourey
+Affiliation: Atharva Chourey Lab (independent research lab)
+
+*Manuscript — not yet peer-reviewed.*
+
+## Abstract
+
+Comparative neuroanatomy rests on volumes measured by different methods in different decades, yet those volumes are routinely pooled as if they were commensurable. We audited a public comparative archive — the Brain Catalogue — and tested whether a scaling relationship fitted to its magnetic resonance imaging (MRI) segmentations could predict the published histological record. The audit covered 71 label files across 37 species: 53 files contained real data and 18 were empty placeholders with a correct grid and zero voxels. After forensic quality control, eight catalogue species supported a pre-registered log–log line relating hippocampus volume to brain volume. On the same lion specimen, the catalogue MRI label gave a hippocampus volume of 2.02 cm³, against 4.50 cm³ published by histological planimetry in Reep et al. (2007) — a gap of about 2.2× that boundary-sensitivity testing localised mainly to the histology side, not to delineation of the MRI labels. In a blind benchmark against 343 published species, pre-registered before the test values were examined, the MRI line failed its registered success criterion decisively: median absolute percentage error 66.0%, against 18.2% for the Patzke et al. (2015) model. Post-hoc decomposition, labelled as such in the underlying records, attributes the failure principally to a compilation-to-compilation ratio: for the species and regions actually paired, the shrinkage-corrected histological compilation values (Stephan/Baron/Reep, as tabulated by Patzke et al. 2015) average ~1.6× the MRI-atlas values at the same brain size, compounded by power-law form failure at small brain sizes. This ratio is a property of that named dataset pair, not a systematic property of histology as a method: raw (uncorrected) histological volumes run below MRI volumes, because histological processing shrinks tissue, and regional ratios reverse (see §1.1 and §4.4). Any comparison that pools the two compilations undeclared inherits the ratio for the paired material.
+
+## Key results
+
+- Archive audit: of 71 label files across 37 species in the Brain Catalogue, 53 contained real data and 18 were empty placeholders with a correct grid and zero voxels.
+- Lion hippocampus on the same specimen: 2.02 cm³ from the catalogue MRI label, against 4.50 cm³ published by histological planimetry (Reep et al. 2007) — a ~2.2× gap that boundary-sensitivity testing localised mainly to the histology side.
+- Blind benchmark against 343 published species, pre-registered before the test values were examined: the MRI line's median absolute percentage error was 66.0%, against 18.2% for the Patzke et al. (2015) model — the registered success criterion failed decisively.
+- The ~1.6× figure is a compilation-to-compilation ratio for the species and regions actually paired (Stephan/Baron/Reep via Patzke et al. 2015 vs MRI-atlas values), not a property of histology as a method: raw, uncorrected histological volumes run below MRI volumes.
+
+## Read the paper
+
+- [paper.md](paper.md) — full text (Markdown)
+- [paper.pdf](paper.pdf) — full text (PDF)
+
+## Sources and fidelity
+
+Every quantitative claim in the paper is traced to its source file in [SOURCES.md](SOURCES.md). Novelty claims were checked against the published literature before release; where a prior work already held a claim, the paper says so and cites it.
