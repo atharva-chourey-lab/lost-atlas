@@ -1,5 +1,7 @@
 # Shrinkage-corrected histological compilation values average ~1.6× MRI-atlas values: an audit of a comparative neuroanatomy archive
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24409194.svg)](https://doi.org/10.5281/zenodo.24409194)
+
 Neuroanatomy · 2026
 
 Author: Atharva Chourey
@@ -30,3 +32,7 @@ Every quantitative claim in the paper is traced to its source file in [SOURCES.m
 ## Licence
 
 This work is licensed under a [Creative Commons Attribution 4.0 International Licence (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt it with attribution to Atharva Chourey, Atharva Chourey Lab.
+
+## Cite this work
+
+Chourey, Atharva (Atharva Chourey Lab). Public manuscript record, v1.0.0-publication. Zenodo. https://doi.org/10.5281/zenodo.24409194
