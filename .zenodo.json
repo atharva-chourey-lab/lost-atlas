@@ -1,0 +1,30 @@
+{
+  "title": "Shrinkage-corrected histological compilation values average ~1.6× MRI-atlas values: an audit of a comparative neuroanatomy archive",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "Comparative neuroanatomy rests on volumes measured by different methods in different decades, yet those volumes are routinely pooled as if they were commensurable. We audited a public comparative archive — the Brain Catalogue — and tested whether a scaling relationship fitted to its magnetic resonance imaging (MRI) segmentations could predict the published histological record. The audit covered 71 label files across 37 species: 53 files contained real data and 18 were empty placeholders with a correct grid and zero voxels. After forensic quality control, eight catalogue species supported a pre-registered log–log line relating hippocampus volume to brain volume. On the same lion specimen, the catalogue MRI label gave a hippocampus volume of 2.02 cm³, against 4.50 cm³ published by histological planimetry in Reep et al. (2007) — a gap of about 2.2× that boundary-sensitivity testing localised mainly to the histology side, not to delineation of the MRI labels. In a blind benchmark against 343 published species, pre-registered before the test values were examined, the MRI line failed its registered success criterion decisively: median absolute percentage error 66.0%, against 18.2% for the Patzke et al. (2015) model. Post-hoc decomposition, labelled as such in the underlying records, attributes the failure principally to a compilation-to-compilation ratio: for the species and regions actually paired, the shrinkage-corrected histological compilation values (Stephan/Baron/Reep, as tabulated by Patzke et al. 2015) average ~1.6× the MRI-atlas values at the same brain size, compounded by power-law form failure at small brain sizes. This ratio is a property of that named dataset pair, not a systematic property of histology as a method: raw (uncorrected) histological volumes run below MRI volumes, because histological processing shrinks tissue, and regional ratios reverse (see §1.1 and §4.4). Any comparison that pools the two compilations undeclared inherits the ratio for the paired material. Keywords: comparative neuroanatomy; hippocampus; histology; MRI segmentation; allometry; data audit; pre-registration",
+  "creators": [
+    {
+      "name": "Chourey, Atharva",
+      "affiliation": "Atharva Chourey Lab — independent research lab",
+      "orcid": "0009-0009-9423-1718"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "comparative neuroanatomy",
+    "brain atlas",
+    "histology",
+    "MRI",
+    "archive audit"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/atharva-chourey-lab/lost-atlas",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "notes": "Manuscript — not yet peer-reviewed. Self-published by Atharva Chourey Lab (human-AI collaboration: Atharva Chourey + Lapis)."
+}
