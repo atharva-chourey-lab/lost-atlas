@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Shrinkage-corrected histological compilation values average ~1.6× MRI-atlas values: an audit of a comparative neuroanatomy archive"
+authors:
+  - family-names: "Chourey"
+    given-names: "Atharva"
+    orcid: "https://orcid.org/0009-0009-9423-1718"
+    affiliation: "Atharva Chourey Lab — independent research lab"
+license: CC-BY-4.0
+repository-code: "https://github.com/atharva-chourey-lab/lost-atlas"
+keywords:
+  - "comparative neuroanatomy"
+  - "brain atlas"
+  - "histology"
+  - "MRI"
+  - "archive audit"
+version: "1.0.0-publication"
+date-released: "2026-11-20"
