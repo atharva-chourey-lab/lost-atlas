@@ -2,7 +2,7 @@
 
 Accompanies: "Shrinkage-corrected histological compilation values average ~1.6× MRI-atlas values: an audit of a comparative neuroanatomy archive" (Atharva Chourey, Atharva Chourey Lab).
 
-**Status: prepared for deposit, NOT yet deposited.** No Zenodo record or DOI exists yet. Deposit plan: upload this folder (this README + the CSVs below) as a single Zenodo record, then insert the DOI into the manuscript's Data Availability statement and the GitHub preprint page.
+**Status: deposited 2026-11-26.** These files are deposited in Zenodo as part of the manuscript record (concept DOI [10.5281/zenodo.24409193](https://doi.org/10.5281/zenodo.24409193); the deposited version archives this folder as `data/` alongside the manuscript), minted via the lab's Zenodo↔GitHub integration from https://github.com/atharva-chourey-lab/lost-atlas. The DOI is cited in the manuscript's Data & Code Availability statement.
 
 **Provenance.** All files are tidy outputs copied unchanged from the source project `~/workspace/brain-scan-comparison/outputs/` on 2026-11-17. No values were altered in copying. Source scans and labels are NOT included: Brain Catalogue scans/labels are available from the catalogue's Zenodo records and website under CC BY-NC 4.0 (lion: Zenodo record 44855; black rhinoceros: record 44797, mesh record 44795); M-CRIB 2.0 from OSF node 4vthr. Literature values were transcribed from Reep et al. (2007) Table 1 and Patzke et al. (2015) Table 1, as cited in the manuscript.
 
@@ -34,4 +34,4 @@ Accompanies: "Shrinkage-corrected histological compilation values average ~1.6×
 
 ## Licence note for the deposit
 
-The CSVs are the lab's own derived measurements and transcriptions of published tables. A CC BY 4.0 licence for the deposit is the natural choice for the lab's own outputs; the author should confirm the licence at upload, noting that the underlying scans remain CC BY-NC 4.0 from the Brain Catalogue and are not part of this deposit.
+The CSVs are the lab's own derived measurements and transcriptions of published tables. The deposit is licensed CC BY 4.0 (the record's licence), covering the lab's own outputs; the underlying scans remain CC BY-NC 4.0 from the Brain Catalogue and are not part of this deposit.
