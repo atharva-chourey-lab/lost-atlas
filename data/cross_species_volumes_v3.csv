@@ -1,0 +1,38 @@
+species,telencephalon_cm3,hippocampus_note,striatum_note,brain_vol_source,hippocampus_cm3,atlas_mask_cm3,cerebellum_cm3,corpus_callosum_note,striatum_cm3,cerebrum_cm3,neocortex_cm3,brain_vol_cm3,hippocampus_pct,qc,data_class,predicted_hippocampus_cm3,deviation_pct
+Baboon,90.784,empty/placeholder (nz=0),empty/placeholder (nz=0),otsu_mask,,,,,,,,106.15,,,none,,
+Black_rhinoceros,,,,catalogue_atlas_mask,6.854,442.65,,,,,,442.65,1.5484016717496893,,catalogue_label,3.749437149602969,82.80077052967205
+Blackbuck,,empty/placeholder (nz=0),,catalogue_atlas_mask,,31.44,,,,,,31.44,,,none,,
+Bottlenose_dolphin,,empty/placeholder (nz=0),,catalogue_atlas_mask,,515.46,3.156,empty/placeholder (nz=900),,,,515.46,,,none,,
+Cat,18.622,,,otsu_mask,0.538,,,,,,,63.06,0.8531557247066286,,catalogue_label,0.7750963263696558,-30.589272365687968
+Cheetah,66.16,,,otsu_mask,0.848,,,,,,,67.93,1.2483438834093918,,catalogue_label,0.8231720151501932,3.0161356791601714
+Chimpanzee,,"D99 macaque-atlas propagation (affine, model-estimated); overlay sparse/lopsided - PROVISIONAL, low confidence",,catalogue_atlas_mask,1.48,274.13,0.157,,1.747,,,274.13,0.5398898332907744,,model_estimated_propagation,2.544618613045656,-41.83804235289362
+Crab-eating_macaque,58.028,empty/placeholder (nz=0),empty/placeholder (nz=0),otsu_mask,,,,,,,,56.69,,,none,,
+Demidoff's_dwarf_Galago,,empty/placeholder (nz=0),,otsu_mask,,,,,,1.83,,4.24,,,none,,
+Ferret,,,,otsu_mask,0.173,,0.16,,,,1.867,6.13,2.822185970636215,,catalogue_label,0.117617492637156,47.086964805223495
+Giant_panda,180.752,,,otsu_mask,1.065,,,,,,,181.71,0.5860987287436025,,catalogue_label,1.8245853752705872,-41.63057457138394
+Gibbon,,,,otsu_mask,,,,,,61.733,,123.84,,,none,,
+Giraffe,668.548,,,otsu_mask,2.917,,,,,,,618.46,0.47165540212786594,,catalogue_label,4.914342344040465,-40.64312585920283
+Gorilla,,"D99 macaque-atlas propagation (affine, model-estimated); overlay sparse - flagged",empty/placeholder (nz=0),catalogue_atlas_mask,1.76,347.21,,,,289.204,,347.21,0.5068978428040667,,model_estimated_propagation,3.0806949344562784,-42.87003298135302
+Gray_wolf,58.081,"D99 macaque-atlas propagation, CROSS-ORDER (affine, model-estimated); overlay pass (bilateral, in-territory)",,otsu_mask,0.69,,,,,,,53.66,1.2858740216175923,,model_estimated_propagation,0.6802152767184856,1.4384744971794974
+Grey-cheeked_mangabey,50.173,empty/placeholder (nz=0),,otsu_mask,,,,,,,,58.47,,,none,,
+House_mouse,0.546,,,otsu_mask,,,,,,,,0.7,,,none,,
+Human,,"Harvard-Oxford atlas propagation (affine, model-estimated); QC overlay pass",empty/placeholder (nz=0),catalogue_atlas_mask,6.85,1303.73,,,,,,1303.73,0.5254155384933997,,model_estimated_propagation,8.983827285536217,-23.75187342449956
+La_Plata_dolphin,91.293,empty/placeholder (nz=0),,otsu_mask,,,,,,,,86.75,,,none,,
+Leopard,,,,catalogue_atlas_mask,1.178,99.14,,,,,,99.14,1.188218680653621,,catalogue_label,1.1176559133677992,5.399164976487948
+Lion,145.6,,,otsu_mask_zenodo_scan,2.022,,,,,,,188.08,1.0750744364100382,verified: overlay checked,catalogue_label,1.8761561535600215,7.773545190427694
+Night_monkey,14.399,EXCLUDED: 1 nonzero voxel — junk placeholder,,otsu_mask,,,,,,11.719,,35.39,,,none,,
+Nile_crocodile,12.212,,,,,,,,,,,,,,none,,
+Nursehound,20.241,,,otsu_mask,,,,,,,,73.68,,,none,,
+Okapi,269.994,"EXCLUDED: 272 nonzero voxels — sliver, not a structure",,otsu_mask,,,,,,,,254.27,,,none,,
+Orangutan,,empty/placeholder (nz=0),,catalogue_atlas_mask,,185.78,,,,,,185.78,,,none,,
+Ostrich,29.963,empty/placeholder (nz=0),,otsu_mask,,,,,,,,33.63,,,none,,
+Plains_zebra,405.474,,,,,,,,,,,,,,none,,
+Platypus,13.377,,,otsu_mask,,,,,,,,73.91,,,none,,
+Red-necked_wallaby,,empty/placeholder (nz=0),,catalogue_atlas_mask,,14.72,,,,,,14.72,,,none,,
+Red_kangaroo,,,,catalogue_atlas_mask,0.2,27.23,,,,,,27.23,0.7344840249724568,,catalogue_label,0.3929438364758914,-49.10214095894827
+Red_squirrel,,EXCLUDED: file duplicates the whole-brain Atlas mask — mislabeled,,catalogue_atlas_mask,,761.61,,,,,,761.61,,,none,,
+Rhesus_macaque,34.328,empty/placeholder (nz=0),empty/placeholder (nz=0),otsu_mask,,,35.409,,,28.424,,23.48,,,none,,
+Sloth_bear,,,,catalogue_atlas_mask,3.998,147.31,,,,,,147.31,2.7140044803475663,,catalogue_label,1.5396859404999614,159.6633439870071
+Slow_loris,,empty/placeholder (nz=0),,catalogue_atlas_mask,,515.6,,,,,,515.6,,,none,,
+Thylacine,,empty/placeholder (nz=0),,otsu_mask,,,,,,16.489,,14.26,,,none,,
+White-headed_capuchin,48.56,empty/placeholder (nz=0),,otsu_mask,,,,,,40.717,27.332,48.85,,,none,,

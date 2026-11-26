@@ -1,0 +1,3 @@
+species,catalogue_cm3,plus1vox_cm3,plus2vox_cm3,testA_propagated_cm3,reep_cm3,closure_plus1_pct,closure_plus2_pct,closure_testA_pct,grade_testB,grade_testA
+Lion,2.022,2.404,2.873,1.789,4.496,15.5,34.4,-9.4,20-50%: mixed,VOID - propagation failed placement QC (Dice ~0)
+Leopard,1.178,1.551,1.923,0.603,3.121,19.2,38.4,-29.6,20-50%: mixed,VOID - propagation failed placement QC (Dice ~0)

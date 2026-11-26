@@ -1,0 +1,11 @@
+species,vol_cm3,n_components,top1,top2_frac,symmetry
+Ferret,0.173,3,50468,1.0,centroids x=49/147 vs midline 98
+Red_kangaroo,0.2,6,4078,0.907,centroids x=28/55 vs midline 56
+Cat,0.538,3,34306,1.0,centroids x=66/152 vs midline 110
+Cheetah,0.848,7,36668,1.0,centroids x=61/176 vs midline 120
+Leopard,1.178,9,18204,0.999,centroids x=60/152 vs midline 104
+Sloth_bear,3.998,7,84565,0.981,centroids x=164/167 vs midline 115
+Giant_panda,1.065,3,46117,1.0,centroids x=121/205 vs midline 190
+Lion,2.022,6,35306,0.848,centroids x=82/205 vs midline 140
+Black_rhinoceros,6.854,61,47757,0.989,centroids x=73/181 vs midline 133
+Giraffe,2.917,4,67132,1.0,centroids x=215/252 vs midline 176

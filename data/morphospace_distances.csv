@@ -1,0 +1,14 @@
+pair,distance_zspace
+human_infant_centroid <-> lion,2.93
+human_infant_centroid <-> adult_human_MNI152_template,2.86
+human_infant_centroid <-> leopard,3.01
+human_infant_centroid <-> cheetah,2.42
+human_infant_centroid <-> gray_wolf,3.67
+human_infant_centroid <-> domestic_cat_template,4.19
+human_infant_centroid <-> gorilla,0.8
+human_infant_centroid <-> bottlenose_dolphin,4.19
+lion <-> adult_human_MNI152_template,4.33
+lion <-> baboon (nearest),1.12
+lion <-> leopard (nearest),1.65
+lion <-> gray_wolf (nearest),1.69
+lion <-> giraffe (nearest),1.8
